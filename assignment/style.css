@@ -3,8 +3,6 @@
 body {
     background-color: #c7ddcc;
     text-align: center;
-
-
 }
 
 /* Make the header and footer a different color from the background */
@@ -36,7 +34,6 @@ img {
 }
 
 /* Change the font-family of your list */
-
 div.container {
     text-align: center;
     font-family: Verdana, Arial, Helvetica, sans-serif;
