@@ -18,9 +18,13 @@ footer {
 /* Make your p tag a different color and italic */
 p {
     font-style: italic;
-    color:  #ed0b70;
+    color: #ed0b70;
 }
 
 /* Put a border around your image */
+img {
+    border: 5px solid white;
+    border-radius: 50%;
+}
 
 /* Change the font-family of your list */
