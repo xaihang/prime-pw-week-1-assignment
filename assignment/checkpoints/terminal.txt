@@ -13,7 +13,7 @@ answer: cd .. (two dots). The .. means “the parent directory” of your curren
 answer: mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-answer: if command ls in an empty folder it will return current directory name only with nothing listed.
+answer: if command ls in an empty folder it will return current directory name only with nothing else listed.
 answer: if command ls in a folder with files it will show a listing (names) of what is nested in that folder.
 
 # 6 - What is a quick way to create a new file?
