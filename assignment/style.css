@@ -3,14 +3,12 @@
 body {
     background-color: #c7ddcc;
     text-align: center;
-
 }
 
 /* Align the h1 containing your name in the center of the header*/
 div.h1 {
     text-align: center;
     margin-top: 180px;
-
 }
 
 /* Make the header and footer a different color from the background */
@@ -38,7 +36,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     margin-top: 60px;
-
 }
 
 /* Change the font-family of your list */
@@ -47,17 +44,14 @@ div.container {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     padding-bottom: 40px;
     padding-top: 15px;
-
 }
 
 ul.facts {
     display: inline-block;
     text-align: left;
     margin-top: -10px;
-
 }
 
 h2 {
     display: flexbox;
-
 }
