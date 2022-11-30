@@ -6,9 +6,9 @@ body {
 }
 
 /* Align the h1 containing your name in the center of the header*/
-div.h1 {
-    text-align: center;
-    margin-top: 180px;
+h1 {
+    position: relative;
+    align-items: center;
 }
 
 /* Make the header and footer a different color from the background */
@@ -39,14 +39,14 @@ img {
 }
 
 /* Change the font-family of your list */
-div.container {
+.container {
     text-align: center;
     font-family: Verdana, Arial, Helvetica, sans-serif;
     padding-bottom: 40px;
     padding-top: 15px;
 }
 
-ul.facts {
+.facts {
     display: inline-block;
     text-align: left;
     margin-top: -10px;
